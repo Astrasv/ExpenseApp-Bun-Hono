@@ -1,4 +1,4 @@
-# bun-hono-trial
+# Bun-Hono-trial
 
 A simple expense tracking application built with modern web technologies.
 
@@ -11,7 +11,7 @@ A simple expense tracking application built with modern web technologies.
 - TanStack Query for data fetching
 - TanStack Form for form handling
 - Tailwind CSS for styling
-- Radix UI primitives
+- ShadCN Components
 
 ### Backend
 - Bun runtime
