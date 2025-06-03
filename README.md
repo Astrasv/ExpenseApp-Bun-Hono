@@ -1,15 +1,27 @@
 # bun-hono-trial
 
-To install dependencies:
+A simple expense tracking application built with modern web technologies.
 
-```bash
-bun install
-```
+## Tech Stack
 
-To run:
+### Frontend
+- React with TypeScript
+- Vite for build tooling
+- TanStack Router for routing
+- TanStack Query for data fetching
+- TanStack Form for form handling
+- Tailwind CSS for styling
+- Radix UI primitives
 
-```bash
-bun run index.ts
-```
+### Backend
+- Bun runtime
+- Hono framework
 
-This project was created using `bun init` in bun v1.2.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Features
+
+- View total expenses on dashboard
+- Add new expenses
+- List all expenses
+- Loading states and error handling
+- Form validation
+
